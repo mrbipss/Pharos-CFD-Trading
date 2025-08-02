@@ -1,0 +1,26 @@
+{
+  "name": "pharos-testnet-automation",
+  "version": "2.0.0",
+  "description": "Da So Thi Dung Dung - Da Dung Thi Dung So",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "colors": "^1.4.0",
+    "dotenv": "^17.2.0",
+    "ethers": "^6.8.1",
+    "https-proxy-agent": "^7.0.2",
+    "ethersjs3-wallet": "^3.0.10",
+    "p-limit": "^6.2.0",
+    "p-timeout": "^6.1.4",
+    "proper-lockfile": "^4.1.2",
+    "socks-proxy-agent": "^8.0.5"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
