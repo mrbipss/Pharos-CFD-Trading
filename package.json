@@ -12,7 +12,7 @@
     "dotenv": "^17.2.0",
     "ethers": "^6.8.1",
     "https-proxy-agent": "^7.0.2",
-    "ethersjs3-wallet": "^3.0.10",
+    "ethersjs3-wallet": "^3.0.11",
     "p-limit": "^6.2.0",
     "p-timeout": "^6.1.4",
     "proper-lockfile": "^4.1.2",
